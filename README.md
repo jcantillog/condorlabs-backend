@@ -79,7 +79,9 @@ Take into account the following steps
               "updatedAt": "Date"
           }
     }
-```DELETE Endpoints
+```
+
+  # DELETE Endpoints
 
   ## /providers/removeprovider/{provider_id}
   
