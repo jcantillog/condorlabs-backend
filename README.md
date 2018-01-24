@@ -9,7 +9,7 @@ Take into account the following steps
 2) Go inside the project folder through your CLI
 3) Run 'npm install' in order to install all project dependencies
 4) Execute 'npm start' to run the app on localhost (by default: http://localhost:3000)
-5) Finally, the APIRest could be consumed using an APIClient or any toolchain like Postman
+5) Finally, the APIRest can be consumed using an APIClient or any toolchain like Postman
 
   # GET Endpoints
 
